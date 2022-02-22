@@ -4,13 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+
+First, run the development server:
+
+```bash
 Before running add followings in terminals:
 npm i nepali-date-converter
 npm i react-responsive-carousel
 npm i bootstrap-next
-
-First, run the development server:
-```bash
 npm run dev
 # or
 yarn dev

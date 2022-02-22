@@ -1,15 +1,18 @@
 # bhimghunga-website
-This is only a demo version of a bhimdhunga website framework designation.
+This is only a demo version of a bhimdhunga website framework designation using VSCode as IDE.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-
-
+I use VSCode.
+Install nodejs 
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 First, run the development server:
 
 ```bash
 Before running add followings in terminals:
+for ease using next-js name a folder using command:
+npx create-next-app header-footer(folder Name)
+//deploy above code(components,pages,api,styles etc) and use following in terminals:
 npm i nepali-date-converter
 npm i react-responsive-carousel
 npm i bootstrap-next
